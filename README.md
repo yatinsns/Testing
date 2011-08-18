@@ -45,6 +45,8 @@ Usage:
     git new
     git new --oneline
     git new -p
+ 
+
 
 Note: You need to add this file *and* ./new-revs to your $PATH for it
 to work.
